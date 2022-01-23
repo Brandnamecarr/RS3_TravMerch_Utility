@@ -1,0 +1,4 @@
+@echo off
+
+"//File Path to your python.exe file" "//File path to main.py"
+pause

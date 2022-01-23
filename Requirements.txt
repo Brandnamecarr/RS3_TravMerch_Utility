@@ -1,0 +1,7 @@
+Requirements to run the batch file:
+
+1. Python Installed on your local machine.
+2. The source code (main.py & merchInfo.py) need to be stored in the same file location.
+3. 'batch.txt' properly configured (change the editable text inside 'batch.txt'.
+4. Change the .txt file extension to a .bat to create an executable batch file.
+5. Run and verify the data via the Travelling Merchant Website on RunescapeWiki.
