@@ -1,4 +1,4 @@
 @echo off
 
-"//File Path to your python.exe file" "//File path to main.py"
+"//File Path to your python.exe file" "//File path to main.py & merchInfo.py"
 pause
